@@ -1,0 +1,8 @@
+setup.py
+MeanStandardError.egg-info/PKG-INFO
+MeanStandardError.egg-info/SOURCES.txt
+MeanStandardError.egg-info/dependency_links.txt
+MeanStandardError.egg-info/requires.txt
+MeanStandardError.egg-info/top_level.txt
+mypackage/__init__.py
+mypackage/my_module.py
